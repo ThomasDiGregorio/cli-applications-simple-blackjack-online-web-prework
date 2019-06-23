@@ -47,7 +47,7 @@ end
 
 def invalid_command
   # code invalid_command here
-  
+   puts "invalid"
 end
 
 #####################################################
@@ -56,5 +56,6 @@ end
 
 def runner
   # code runner here
+  
 end
     
