@@ -37,11 +37,17 @@ end
 
 def hit?
   # code hit? here
-  
+   prompt_user
+  if get_user_input == 'h'
+    card_total += deal_card
+  end
+    card_total
+end
 end
 
 def invalid_command
   # code invalid_command here
+  
 end
 
 #####################################################
