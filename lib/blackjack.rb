@@ -1,4 +1,4 @@
-def welcome
+gets.strip.chompdef welcome
   # code #welcome here
   puts "Welcome to the Blackjack Table"
 end
