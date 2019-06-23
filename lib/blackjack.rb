@@ -1,6 +1,6 @@
 def welcome
   # code #welcome here
-  
+  rand(1..11)
 end
 
 def deal_card
